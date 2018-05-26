@@ -1,5 +1,5 @@
 {
-  "name": "slushie/recaptcha-secure-token",
+  "name": "Formalistech/recaptcha-secure-token",
   "description": "Generate ReCaptcha-compatible secure tokens",
   "homepage": "https://github.com/slushie/recaptcha-secure-token",
   "keywords": ["recaptcha", "secure token", "stoken"],
